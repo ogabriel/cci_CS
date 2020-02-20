@@ -11,4 +11,3 @@ end
 
   puts "#{n} - #{thing(n)}"
 end
-
